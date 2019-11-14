@@ -1,0 +1,29 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "A simple MEAN App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipakrathod258/NodeJS_CRUD.git"
+  },
+  "keywords": [
+    "Simple",
+    "CRUD"
+  ],
+  "author": "Dipak Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipakrathod258/NodeJS_CRUD/issues"
+  },
+  "homepage": "https://github.com/dipakrathod258/NodeJS_CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10"
+  }
+}
